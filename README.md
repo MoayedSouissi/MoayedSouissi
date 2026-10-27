@@ -1,33 +1,43 @@
 <div align="center">
 
-  <!-- Animated Typing Header Banner -->
+  <!-- Typing SVG Animated Header -->
   <a href="https://github.com/MoayedSouissi">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Moayed+Souissi;Software+Engineer+%26+Developer;Building+Modern%2C+Clean+%26+Impactful+Software;Welcome+to+my+GitHub+Profile!+%E2%9C%A8" alt="Typing SVG Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=Hi+%F0%9F%91%8B%2C+I'm+Moayed+Souissi;Data+Analyst+%26+Business+Intelligence+Specialist;Transforming+Data+into+Actionable+Business+Value;Power+BI+%E2%80%A2+SQL+%E2%80%A2+Python+%E2%80%A2+ETL+%E2%80%A2+AI+Solutions" alt="Typing SVG" />
   </a>
 
-  <!-- Profile Visitor Counter -->
-  <p align="center" style="margin-top: 10px;">
-    <img src="https://komarev.com/ghpvc/?username=MoayedSouissi&label=Profile%20Views&color=58a6ff&style=flat-square" alt="Profile Views" />
+  <!-- Quick Badges: Profile Views & Status -->
+  <p align="center" style="margin-top: 8px;">
+    <img src="https://komarev.com/ghpvc/?username=MoayedSouissi&label=Profile%20Views&color=0284c7&style=flat-square" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-success?style=flat-square" alt="Status" />
+    <img src="https://img.shields.io/badge/Location-Tunis%2C%20Tunisia-red?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
   </p>
 
-  <!-- Social & Contact Badges -->
+  <!-- Connect & Social Badges -->
   <p align="center">
-    <a href="https://linkedin.com/in/moayedsouissi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:contact@moayedsouissi.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://github.com/MoayedSouissi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://www.linkedin.com/in/moayed-souissi/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:medmoayed.souissi@esen.tn">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/MoayedSouissi">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
   </p>
 
 </div>
 
 ---
 
-### 💫 About Me
+### 👨‍💻 Executive Summary
+
+> **Data Analyst & Business Intelligence Specialist** with an academic background from **ESEN (Université de la Manouba)** and **ESC Sfax**. Experienced in architecting end-to-end data pipelines, designing automated **ETL workflows**, building **data warehouses**, and developing interactive **Power BI decision-support dashboards** combined with predictive machine learning models.
 
 ```yaml
-name: Moayed Souissi
-role: Software Engineer / Full-Stack Developer
-passions:
-  - Designing clean, responsive web applications
-  - Solving challenging software problems
-  - Open source & modern developer tooling
-fun_fact: "Turning coffee and curiosity into working code ☕⚡"
+Name: Moayed Souissi
+Title: Data Analyst & BI Specialist
+Education:
+  - Master's in Business Intelligence — ESEN Manouba (2024 - 2026)
+  - Management IT & BI — ESC Sfax (2023)
+Core Focus: Data Warehousing, Business Analytics, Predictive Modeling & Process Automation
+Languages: English (Fluent), French (Fluent), Arabic (Native), Spanish (Basic)
